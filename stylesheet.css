@@ -1,0 +1,149 @@
+
+html {
+	margin: 0;
+	padding: 0;
+}
+
+h1 {
+	 font-size: 36px;
+	 line-height: 60px;
+	 margin: 0px 0px 15px 0px;
+	 font-family: "AmericanTypwrterITCW01- 731031";
+}
+
+h2 {
+	 font-size: 36px;
+	 line-height: 46px;
+	 margin: 0px 0px 25px 0px;
+}
+
+h3 {
+	 font-size: 28px;
+	 line-height: 36px;
+	 margin: 0px 0px 19px 0px;
+}
+
+h4 {
+	 margin-bottom: 25px;
+	 font-weight: 600;
+	 font-style: normal;
+}
+
+body {
+	 padding: 0px 0 50px 0;
+	 font-size: 16px;
+	 min-height: 100%;
+	 font-family: "Gill Sans Light", sans-serif; Georgia;
+	 font-weight: 400;
+	 font-style: normal;
+	 line-height: 25px;
+	 position: absolute;
+}
+
+p {
+	 margin: 0px 0px 15px 0px;
+	 text-transform: inherit;
+	 font-size: 18px;
+	 font-family: "mf-gill-sans-212115";
+	 color: rgba(35, 22, 114, 1);
+	 text-align: left;
+	}
+
+p.intro {
+	 font-size: 22px;
+	 line-height: 31px;
+	 margin: 20px 0px;
+	 font-family: "Gill Sans Light";
+	 font-weight: 400;
+	 font-style: normal;
+	 color: rgba(35, 22, 114, 1);
+}
+
+blockquote.pull-quote {
+	 margin: 0em 1em 1em 0em;
+	 border-left: 3px solid #ccc;
+	 padding: 0em 0em 0em 0.7em;
+}
+
+div.content {
+	 margin: 0 auto;
+	 text-align: left;
+	 width: 40%;
+	 padding: 50px 0px 0px 0px;
+}
+
+h5 {
+	 margin: 0px 0px 25px 0px;
+}
+
+p.quote {
+	 font-size: 23px;
+	 line-height: 28px;
+	 font-style: italic;
+	 color: #666666;
+	 margin: 0px;
+}
+
+blockquote {
+	 font-size: 26px;
+	 line-height: 37px;
+	 margin-bottom: 25px;
+}
+
+a:link { 
+	text-decoration: none; 
+	color: #31736d;
+	}
+
+a:hover, a:focus, a:active { 
+	text-decoration: underline; 
+	color: #0f1141;
+	}
+
+
+/* specific divs --Image?? */
+
+.nav { 
+	min-width: 470px;
+	width: 100%;
+	}
+
+h1 { 
+	margin-top: 10px;
+	display: block;
+	width: 219px;
+	height: 87px;
+	float: left;
+
+	text-indent: 100%;
+	white-space: nowrap;
+	}
+
+header {
+	padding-top: 20px;
+	height: 87px;
+}
+
+
+footer { 
+	text-align: center; 
+	display: block;
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+li {
+    float: left;
+    color: rgba(0, 0, 0, 0);
+    background-color: #595959;
+}
+
+a {
+    display: block;
+    width: 110px;
+    background-color: #595959;
+}
