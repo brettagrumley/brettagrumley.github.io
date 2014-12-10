@@ -215,3 +215,20 @@ p.masthead-li {
 img {
 	padding: 1em .5em;
 }
+
+img.center {
+	float: center;
+}
+
+figure {
+	float:center;
+	padding: 0em 0em 0em 0em;
+}
+
+figcaption {
+	float: center;
+	font-size: 10px;
+	font-family: Helvetica;
+	padding: 0em 0em 0em 0em;
+}
+
